@@ -67,11 +67,11 @@
   <tr>
     <td> <h2> Monitoring </h2> </td>
     <td>
-      <img src="gif/prometheusio.svg" alt="prometheus" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="gif/thanos.svg" alt="thanos" width="125"/> &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="gif/grafana.svg" alt="grafana" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="gif/kibana.svg" alt="kibana" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="img/zabbix.png" alt="zabbix" width="85"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/prometheusio.svg" alt="prometheus" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/thanos.svg" alt="thanos" width="85"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/grafana.svg" alt="grafana" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/kibana.svg" alt="kibana" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="img/zabbix.png" alt="zabbix" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
@@ -89,27 +89,22 @@
     <td>
       <img src="img/grafana-loki.png" alt="Grafana Loki" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="img/fluentbit.png" alt="fluentbit" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="gif/fluentd.svg" alt="fluentd" width="145"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/fluentd.svg" alt="fluentd" width="115"/> &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="img/elasticsearrch.jpg" alt="elasticsearch" width="85"/> &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td> <h2> OS </h2> </td>
     <td>
-      <img src="gif/linux.svg" alt="linux" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="gif/windows.svg" alt="windows" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="gif/macos.svg" alt="macos" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/linux.svg" alt="linux" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/windows.svg" alt="windows" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/macos.svg" alt="macos" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td> <h2> Plugins </h2> </td>
     <td>
-      <ul>
-        <li> <h2> YQ  </h2> &nbsp;&nbsp;&nbsp;&nbsp;</li>
-        <li> <h2> JQ  </h2> &nbsp;&nbsp;&nbsp;&nbsp;</li>
-        <li> <h2> Helm S3, Secret, Diff  </h2> &nbsp;&nbsp;&nbsp;&nbsp;</li>
-        <li> <h2> Helm S3, Secret, Diff  </h2> &nbsp;&nbsp;&nbsp;&nbsp;</li>
-      </ul>
+      <h3> YQ, JQ, Helm S3 - Secerts - Diff </h3>
     </td>
   </tr>
 
