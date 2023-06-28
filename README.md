@@ -113,14 +113,13 @@
 
 
 <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vegito11&" alt="vegito11" width="450" />
+
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=vegito11&show_icons=true&locale=en" alt="vegito11" width="350" />
 
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vegito11&show_icons=true&locale=en&layout=compact" alt="vegito11" width="350" />
-
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vegito11&" alt="vegito11" width="450" />
-    <img src="https://github-profile-trophy.vercel.app/?username=vegito11&column=3&margin-w=15&margin-h=15" alt="vegito11"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vegito11&show_icons=true&locale=en&layout=compact" alt="vegito11" width="350" />
 
 </p>
 
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=vegito11&column=3&margin-w=15&margin-h=15" alt="vegito11"/> -->
 
